@@ -194,8 +194,8 @@ This project is for academic and educational use. Add a formal license if distri
 
 Add your team members here.
 
-* Name — Role
-* Name — Role
+* Sreya Kambhatla — Business Analyst/Developer
+* Nitya Ramachandran — UI/UX Designer/Developer
 
 ---
 
