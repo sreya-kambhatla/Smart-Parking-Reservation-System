@@ -198,7 +198,8 @@ Add your team members here.
 * Name — Role
 
 ---
+## 👤
 
-## 📬 Contact
-
-For questions or collaboration, open an issue or contact the repository owner.
+Sreya Kambhatla<br>
+Data Analyst | Business Analyst<br>
+SQL • Python • Power BI • Analytics Engineering
