@@ -198,7 +198,6 @@ Add your team members here.
 * Name — Role
 
 ---
-## 👤
 
 Sreya Kambhatla<br>
 Data Analyst | Business Analyst<br>
