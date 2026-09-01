@@ -192,5 +192,5 @@ This project is for academic and educational use. Add a formal license if distri
 
 ## 👩‍💻 Contributors
 
-* **Sreya Kambhatla** — Business Analyst/Developer
+* **Sreya Kambhatla** — PM/Business Analyst
 * **Nitya Ramachandran** — UI/UX Designer/Developer
